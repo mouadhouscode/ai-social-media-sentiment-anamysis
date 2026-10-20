@@ -82,3 +82,5 @@ It is part of my portfolio of AI automation projects focused on building practic
 **Author:** Hadid Mouadh
 
 **Tools:** n8n · OpenRouter · LLMs · Google Sheets · HTTP APIs
+![Workflow Architecture](screenshots/workflow.png)
+
